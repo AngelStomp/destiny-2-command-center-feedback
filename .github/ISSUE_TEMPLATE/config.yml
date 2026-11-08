@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ideas, questions and feedback
+    url: https://github.com/AngelStomp/destiny-2-command-center-feedback/discussions
+    about: Suggest a feature, ask a question or share feedback in Discussions.
